@@ -1,0 +1,20 @@
+{
+  "name": "concu",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "KienKien99 <43943795+KienKien99@users.noreply.github.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/KienKien99/concu",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
